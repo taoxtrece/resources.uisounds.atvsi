@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="resource.uisounds.atvsi" version="1.0.0" name="ATV Sounds Integration" provider-name="[COLOR teal]Taox [COLOR purple]Trece[/COLOR]">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">ATV Sounds Integration</summary>
+    <description lang="en">ATV Sounds Integration</description>
+    <platform>all</platform>
+  </extension>
+</addon>

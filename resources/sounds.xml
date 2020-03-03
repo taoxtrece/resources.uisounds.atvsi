@@ -1,0 +1,44 @@
+<sounds>
+	<actions>
+		<action>
+			<name>left</name>
+			<file>left.wav</file>
+		</action>
+		<action>
+			<name>right</name>
+			<file>right.wav</file>
+		</action>
+		<action>
+			<name>up</name>
+			<file>up.wav</file>
+		</action>
+		<action>
+			<name>down</name>
+			<file>down.wav</file>
+		</action>
+		<action>
+			<name>select</name>
+			<file>select.wav</file>
+		</action>
+		<action>
+			<name>parentdir</name>
+			<file>back.wav</file>
+		</action>
+		<action>
+			<name>previousmenu</name>
+			<file>back.wav</file>
+		</action>
+	</actions>
+
+	<windows>
+		<window>
+			<name>movieinformation</name>
+			<activate>open.wav</activate>
+			<deactivate>back.wav</deactivate>
+		</window>
+		<window>
+			<name>startup</name>
+			<activate>boot.wav</activate>
+		</window>
+	</windows>
+</sounds>
